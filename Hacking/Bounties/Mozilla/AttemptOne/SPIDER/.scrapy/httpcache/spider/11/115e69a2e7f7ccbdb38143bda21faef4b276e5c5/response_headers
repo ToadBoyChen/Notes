@@ -1,0 +1,15 @@
+Content-Type: text/html; charset=utf-8
+Server: granian
+Location: http://website-archive.mozilla.org/www.mozilla.org/firefox_releasenotes/en-US/firefox/3.5.2/releasenotes/
+Expires: Sun, 22 Sep 2024 04:29:52 GMT
+Cache-Control: max-age=43200
+X-Backend-Server: bedrock-ffc86f9dc-gt72k.gcp-us-west1
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Cross-Origin-Opener-Policy: same-origin
+Date: Sat, 21 Sep 2024 16:29:52 GMT
+Via: 1.1 google, 1.1 d05901decd39bd339fbb13247b0f62f6.cloudfront.net (CloudFront)
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: LAX3-C3
+X-Amz-Cf-Id: Z5UUTMoPPjix78WNABlLF0qLZDV8GDttrU4YSzGq7cUFlXp5TB_FIw==

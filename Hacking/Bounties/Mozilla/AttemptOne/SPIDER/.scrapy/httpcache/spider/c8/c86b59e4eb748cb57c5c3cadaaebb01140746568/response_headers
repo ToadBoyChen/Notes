@@ -1,0 +1,20 @@
+Content-Length: 0
+Content-Type: text/html; charset=utf-8
+Server: granian
+Location: /en-US/firefox/130.0.1/system-requirements/
+X-Frame-Options: DENY
+Content-Security-Policy: img-src 'self' data: www.googletagmanager.com *.mozilla.net *.allizom.org *.mozilla.com images.ctfassets.net www.google-analytics.com *.mozilla.org mozilla.org; child-src 'self' accounts.firefox.com www.googletagmanager.com www.youtube.com *.mozilla.net *.allizom.org *.mozilla.com www.google-analytics.com *.mozilla.org js.stripe.com; connect-src 'self' https://accounts.stage.mozaws.net/ www.googletagmanager.com stage.cjms.nonprod.cloudops.mozgcp.net *.mozilla.net *.allizom.org *.mozilla.com cjms.services.mozilla.com www.google-analytics.com o1069899.ingest.sentry.io *.mozilla.org o1069899.sentry.io region1.google-analytics.com sentry.prod.mozaws.net; font-src 'self' *.mozilla.net *.allizom.org *.mozilla.com *.mozilla.org; default-src 'self' *.mozilla.net *.allizom.org *.mozilla.com *.mozilla.org; style-src 'self' *.mozilla.net *.allizom.org *.mozilla.com 'unsafe-inline' *.mozilla.org; frame-src 'self' accounts.firefox.com www.googletagmanager.com www.youtube.com *.mozilla.net *.allizom.org *.mozilla.com www.google-analytics.com *.mozilla.org js.stripe.com; script-src 'self' tagmanager.google.com www.youtube.com www.googletagmanager.com *.mozilla.net *.allizom.org *.mozilla.com 'unsafe-inline' 'unsafe-eval' www.google-analytics.com s.ytimg.com *.mozilla.org js.stripe.com
+Content-Security-Policy-Report-Only: img-src 'self' data: www.googletagmanager.com *.mozilla.net *.allizom.org *.mozilla.com images.ctfassets.net www.google-analytics.com *.mozilla.org mozilla.org; child-src 'self' accounts.firefox.com www.googletagmanager.com www.youtube.com *.mozilla.net *.allizom.org *.mozilla.com www.google-analytics.com *.mozilla.org js.stripe.com; connect-src 'self' https://accounts.stage.mozaws.net/ www.googletagmanager.com stage.cjms.nonprod.cloudops.mozgcp.net *.mozilla.net *.allizom.org *.mozilla.com cjms.services.mozilla.com www.google-analytics.com o1069899.ingest.sentry.io *.mozilla.org o1069899.sentry.io region1.google-analytics.com sentry.prod.mozaws.net; font-src 'self' *.mozilla.net *.allizom.org *.mozilla.com *.mozilla.org; default-src 'self' *.mozilla.net *.allizom.org *.mozilla.com *.mozilla.org; frame-ancestors 'none'; style-src 'self' *.mozilla.net *.allizom.org *.mozilla.com *.mozilla.org; frame-src 'self' accounts.firefox.com www.googletagmanager.com www.youtube.com *.mozilla.net *.allizom.org *.mozilla.com www.google-analytics.com *.mozilla.org js.stripe.com; script-src 'self' tagmanager.google.com www.youtube.com www.googletagmanager.com *.mozilla.net *.allizom.org *.mozilla.com 'unsafe-inline' 'unsafe-eval' www.google-analytics.com s.ytimg.com *.mozilla.org js.stripe.com
+Cache-Control: max-age=600
+Expires: Sat, 21 Sep 2024 16:38:14 GMT
+Content-Language: en-US
+X-Backend-Server: bedrock-ffc86f9dc-b2fmb.gcp-us-west1
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Cross-Origin-Opener-Policy: same-origin
+Date: Sat, 21 Sep 2024 16:28:13 GMT
+Via: 1.1 google, 1.1 0a30e0595e3f5a11dbd4d77734c2e734.cloudfront.net (CloudFront)
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: LAX3-C3
+X-Amz-Cf-Id: xD0TSrL41OX5eC-xXnjWldOFYsg5dsAHLv3EjCYvZfnrQG_kKUvCug==

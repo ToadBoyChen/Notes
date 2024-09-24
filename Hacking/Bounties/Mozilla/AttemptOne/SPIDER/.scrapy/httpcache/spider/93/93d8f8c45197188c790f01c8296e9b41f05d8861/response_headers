@@ -1,0 +1,15 @@
+Content-Type: text/html; charset=utf-8
+Server: granian
+Location: /en-US/
+X-Backend-Server: bedrock-ffc86f9dc-b2fmb.gcp-us-west1
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Cross-Origin-Opener-Policy: same-origin
+Date: Sat, 21 Sep 2024 16:15:33 GMT
+Via: 1.1 google, 1.1 d05901decd39bd339fbb13247b0f62f6.cloudfront.net (CloudFront)
+Vary: Accept-Language
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: LAX3-C3
+X-Amz-Cf-Id: lKXx-RCBzCX6i0gWfMV_RYVs6w1oM6MqofvhflfvMH6z-oeyEW5jiQ==
+Age: 736

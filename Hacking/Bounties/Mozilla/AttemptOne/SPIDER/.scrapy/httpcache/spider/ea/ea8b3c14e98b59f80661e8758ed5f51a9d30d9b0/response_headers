@@ -1,0 +1,15 @@
+Content-Type: text/html; charset=utf-8
+Server: granian
+Location: /en-US/firefox/download/thanks/
+X-Backend-Server: bedrock-ffc86f9dc-8b78d.gcp-us-west1
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Cross-Origin-Opener-Policy: same-origin
+Date: Sat, 21 Sep 2024 16:15:35 GMT
+Via: 1.1 google, 1.1 0a30e0595e3f5a11dbd4d77734c2e734.cloudfront.net (CloudFront)
+Vary: Accept-Language
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: LAX3-C3
+X-Amz-Cf-Id: jJOYBMEQ6U-9toHi761qjgaXwwq35xe2iPW4IOYfDyuMeFrQ4tQjdA==
+Age: 741
